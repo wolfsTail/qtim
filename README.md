@@ -19,6 +19,7 @@
   - БД.
 
 ## Структура
+```
 users/
 │
 ├── decorators/
@@ -41,6 +42,7 @@ users/
 ├── users.controller.ts
 ├── users.module.ts
 └── users.service.ts
+```
 
 ## UsersModule
 
