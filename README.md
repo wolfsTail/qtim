@@ -51,8 +51,7 @@ users/
 ├── users.service.ts
 ├── users.module.md
 ├── users.service.md
-├── users.service.md
-└── README.md
+└── users.service.md
 ```
 
 ## Ссылки
